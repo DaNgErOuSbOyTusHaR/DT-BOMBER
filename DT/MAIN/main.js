@@ -105,6 +105,6 @@ $('#submit').click(()=>{
               });
 
         };
-        alert(`${amount} SMS Sent. Keep the Browser Three minutes for complete your mission.`)
+        alert(`${amount} SUCCESSFULLY BOMBING ATTACK SEND BY TEAM DANGEROUS..☠️☠️`)
     }
 });
